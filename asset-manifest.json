@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dbsoft/static/css/main.a0ee74b7.css",
+    "main.js": "/dbsoft/static/js/main.029c6006.js",
+    "static/js/453.9f82b5ee.chunk.js": "/dbsoft/static/js/453.9f82b5ee.chunk.js",
+    "static/media/img-us.png": "/dbsoft/static/media/img-us.ded5d6b6c1ee3e42563b.png",
+    "static/media/iconNegative-navbar-logo.png": "/dbsoft/static/media/iconNegative-navbar-logo.989128eb294c1eb18858.png",
+    "index.html": "/dbsoft/index.html",
+    "main.a0ee74b7.css.map": "/dbsoft/static/css/main.a0ee74b7.css.map",
+    "main.029c6006.js.map": "/dbsoft/static/js/main.029c6006.js.map",
+    "453.9f82b5ee.chunk.js.map": "/dbsoft/static/js/453.9f82b5ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0ee74b7.css",
+    "static/js/main.029c6006.js"
+  ]
+}
